@@ -2,6 +2,13 @@
 
 **By and for pentesters and security researchers who love collecting tools lists. Includes lists of other lists.**
 
+
+### Directory Traversal
+
+Tool | Description
+---- | ----
+[DotDotPwn](https://github.com/wireghoul/dotdotpwn) 			| It's a very flexible intelligent fuzzer to discover traversal directory vulnerabilities in software such as HTTP/FTP/TFTP servers, Web platforms such as CMSs, ERPs, Blogs, etc.
+
 ### Brute Forcing and Dictionary Password Attacks
 
 Tool | Description
