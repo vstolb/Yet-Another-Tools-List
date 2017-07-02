@@ -44,6 +44,7 @@ Tool | Description
 [DirBuster](https://tools.kali.org/web-applications/DirBuster) 			| DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers.
 [DIRB](https://tools.kali.org/web-applications/dirb) 			| DIRB is a Web Content Scanner. It looks for existing (and/or hidden) Web Objects. It basically works by launching a dictionary based attack against a web server and analyzing the response.
 [Wfuzz](https://tools.kali.org/web-applications/wfuzz) 			| Wfuzz is a tool designed for bruteforcing Web Applications, it can be used for finding resources not linked (directories, servlets, scripts, etc), bruteforce GET and POST parameters for checking different kind of injections (SQL, XSS, LDAP,etc), bruteforce Forms parameters (User/Password), Fuzzing,etc.
+[GoBuster](https://github.com/OJ/gobuster) 			| Directory/file & DNS busting tool written in Go
 
 
 ### Important Lists
@@ -51,3 +52,7 @@ Tool | Description
 Tool | Description
 ---- | ----
 [ssh-badkeys](https://github.com/rapid7/ssh-badkeys) 			| This is a collection of static SSH keys (host and authentication) that have made their way into software and hardware products. 
+[SecLists](https://github.com/danielmiessler/SecLists) 			|  It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
+[HTTP STatus Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) 			|  HTTP Status Codes.
+
+
