@@ -47,12 +47,27 @@ Tool | Description
 [GoBuster](https://github.com/OJ/gobuster) 			| Directory/file & DNS busting tool written in Go
 
 
-### Important Lists
+### Fuzzing, Brute Forcing, and Other For-Use-As-Part-Of-Pentest Lists
 
 Tool | Description
 ---- | ----
 [ssh-badkeys](https://github.com/rapid7/ssh-badkeys) 			| This is a collection of static SSH keys (host and authentication) that have made their way into software and hardware products. 
 [SecLists](https://github.com/danielmiessler/SecLists) 			|  It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
+
+
+### Known Vulnerability and Exploits Lists
+
+Tool | Description
+---- | ----
+[Exploit DB](https://www.exploit-db.com/) 			|  The Exploit Database – ultimate archive of Exploits, Shellcode, and Security Papers.
+[CVE Details](http://www.cvedetails.com/) 			|  CVE Details
+
+
+
+### Educational Lists
+
+Tool | Description
+---- | ----
 [HTTP STatus Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) 			|  HTTP Status Codes.
 
 
