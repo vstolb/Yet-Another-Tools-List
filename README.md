@@ -1,6 +1,6 @@
 # Yet-Another-Tools-List
 
-**By and for pentesters and security researchers who love collecting tools lists. Includes lists of other lists.**
+**By and for pentesters and security researchers who love collecting tools lists. Includes lists of other lists.** 
 
 
 ### Directory Traversal
@@ -9,7 +9,7 @@ Tool | Description
 ---- | ----
 [DotDotPwn](https://github.com/wireghoul/dotdotpwn) 			| It's a very flexible intelligent fuzzer to discover traversal directory vulnerabilities in software such as HTTP/FTP/TFTP servers, Web platforms such as CMSs, ERPs, Blogs, etc.
 
-### Brute Forcing and Dictionary Password Attacks
+### Password Brute Forcing and Dictionary Attacks
 
 Tool | Description
 ---- | ----
@@ -30,11 +30,20 @@ Tool | Description
 [ssh_login](https://www.offensive-security.com/metasploit-unleashed/scanner-ssh-auxiliary-modules/)								| Metasploit module. The ssh_login module is quite versatile in that it can not only test a set of credentials across a range of IP addresses, but it can also perform brute-force login attempts. 
 [THC Hydra](https://tools.kali.org/password-attacks/hydra)								| Hydra is a parallelized login cracker which supports numerous protocols to attack.
 
-### DLLs
+### DLL Attacks
 
 Tool | Description
 ---- | ----
 [Rattler](https://github.com/sensepost/rattler) 			| Automated DLL enumerator.
+
+### Web Content Brute Forcing
+
+Tool | Description
+---- | ----
+[Burp Suite](https://tools.kali.org/web-applications/burpsuite) 			| Burp Suite is an integrated platform for performing security testing of web applications. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application’s attack surface, through to finding and exploiting security vulnerabilities.
+[DirBuster](https://tools.kali.org/web-applications/DirBuster) 			| DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers.
+[DIRB](https://tools.kali.org/web-applications/dirb) 			| DIRB is a Web Content Scanner. It looks for existing (and/or hidden) Web Objects. It basically works by launching a dictionary based attack against a web server and analyzing the response.
+[Wfuzz](https://tools.kali.org/web-applications/wfuzz) 			| Wfuzz is a tool designed for bruteforcing Web Applications, it can be used for finding resources not linked (directories, servlets, scripts, etc), bruteforce GET and POST parameters for checking different kind of injections (SQL, XSS, LDAP,etc), bruteforce Forms parameters (User/Password), Fuzzing,etc.
 
 
 ### Important Lists
