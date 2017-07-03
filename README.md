@@ -60,6 +60,7 @@ Tool | Description
 Tool | Description
 ---- | ----
 [Exploit DB](https://www.exploit-db.com/) 			|  The Exploit Database – ultimate archive of Exploits, Shellcode, and Security Papers.
+[Searchsploit](https://www.exploit-db.com/searchsploit/) 			|  The offline version of Exploit DB. Useful for not having to prove you're a human.
 [CVE Details](http://www.cvedetails.com/) 			|  CVE Details
 
 
