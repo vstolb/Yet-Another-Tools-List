@@ -53,7 +53,7 @@ Tool | Description
 ---- | ----
 [ssh-badkeys](https://github.com/rapid7/ssh-badkeys) 			| This is a collection of static SSH keys (host and authentication) that have made their way into software and hardware products. 
 [SecLists](https://github.com/danielmiessler/SecLists) 			|  It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
-
+[Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) 			|  Various vays of setting up a reverse shell.
 
 ### Known Vulnerability and Exploits Lists
 
