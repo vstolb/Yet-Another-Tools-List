@@ -47,6 +47,13 @@ Tool | Description
 [GoBuster](https://github.com/OJ/gobuster) 			| Directory/file & DNS busting tool written in Go
 
 
+### General Tools for Scanning and Attacking Remote Hosts 
+
+Tool | Description
+---- | ----
+[Metasploit](https://docs.kali.org/general-use/starting-metasploit-framework-in-kali) 			| Metasploit.
+
+
 ### Fuzzing, Brute Forcing, and Other For-Use-As-Part-Of-Pentest Lists
 
 Tool | Description
