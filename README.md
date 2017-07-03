@@ -62,8 +62,15 @@ Tool | Description
 [Exploit DB](https://www.exploit-db.com/) 			|  The Exploit Database – ultimate archive of Exploits, Shellcode, and Security Papers.
 [Searchsploit](https://www.exploit-db.com/searchsploit/) 			|  The offline version of Exploit DB. Useful for not having to prove you're a human.
 [CVE Details](http://www.cvedetails.com/) 			|  CVE Details
+[Security Focus](http://www.securityfocus.com/) 			|  Includes information on vulnerabilities, exploits, etc.
+[PacketStorm](https://packetstormsecurity.com/files/tags/exploit/) 			|  Exploits list on PacketStorm
+[vFeed](https://github.com/toolswatch/vFeed) 			|  The Correlated Vulnerability And Threat Intelligence Database API
 
+### Hardening
 
+Tool | Description
+---- | ----
+[CIS Benchmarks](https://www.cisecurity.org/) 			|  CIS Benchmarks and CIS Controls are consensus-based guides curated by security practitioners focused on performance, not profit.
 
 ### Educational Lists
 
