@@ -19,6 +19,14 @@ Tool | Description
 [Crawbar](https://github.com/galkan/crowbar)								| Crowbar (formally known as Levye) is a brute forcing tool that can be used during penetration tests. It was developed to brute force some protocols in a different manner according to other popular brute forcing tools. As an example, while most brute forcing tools use username and password for SSH brute force, Crowbar uses SSH key(s). This allows for any private keys that have been obtained during penetration tests, to be used to attack other SSH servers.
 [ssh_login](https://www.offensive-security.com/metasploit-unleashed/scanner-ssh-auxiliary-modules/)								| Metasploit module. The ssh_login module is quite versatile in that it can not only test a set of credentials across a range of IP addresses, but it can also perform brute-force login attempts. 
 
+### Local Enumeration and Privilege Escalation
+
+Tool | Description
+---- | ----
+[Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) 			| Set of manual methods.
+[LinEnum](https://github.com/rebootuser/LinEnum) 			|  Scripted Local Linux Enumeration & Privilege Escalation Checks
+[unix-privesc-check](http://tools.kali.org/vulnerability-analysis/unix-privesc-check) 			|  Unix-privesc-checker is a script that runs on Unix systems (tested on Solaris 9, HPUX 11, Various Linuxes, FreeBSD 6.2). It tries to find misconfigurations that could allow local unprivileged users to escalate privileges to other users or to access local apps (e.g. databases).
+
 ### SSH
 
 Tool | Description
